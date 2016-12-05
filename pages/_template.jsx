@@ -70,9 +70,9 @@ module.exports = React.createClass({
                     textDecoration: 'none',
                     marginLeft: rhythm(1/2),
                   }}
-                  href="https://github.com/gatsbyjs/gatsby"
+                  href="http://sugges.tv"
                 >
-                  Github
+                  Suggestv
                 </a>
                 <Link
                   to={prefixLink('/examples/')}

@@ -1,17 +1,13 @@
 ---
-title: Modules used on this site
+title: Happy clients that trust us and use it on their sites
 ---
 
-A real documentation site would have live examples here. But since this
-site isn't documenting anything real, here's the list of modules used on
-this site.
+This list is not comprehensive and not updated in real time. If you are a
+client and would like to appear here (or to be removed from here) please
+email us. Any other feedback/queries are welcome too.
 
-* [React](https://facebook.github.io/react/docs/)
-* [GatsbyJS](https://github.com/gatsbyjs/gatsby)
-* [TypographyJS](https://kyleamathews.github.io/typography.js/#/)
-* [React Router](https://github.com/rackt/react-router)
-* [Underscore.String](http://epeli.github.io/underscore.string/)
-* [React Responsive Grid](http://kyleamathews.github.io/react-responsive-grid/#/)
-* [Color Pairs Picker](http://kyleamathews.github.io/color-pairs-picker/)
-* [React Document Title](https://github.com/gaearon/react-document-title)
-* [Lodash](https://lodash.com/)
+* [ADVFN](http://uk.advfn.com/)
+* [The Bitchy Waiter](http://thebitchywaiter.com/)
+* [Coviral](http://coviral.com/)
+* [OmgWhut](http://omgwhut.com/)
+* [History Things](http://historythings.com/)
