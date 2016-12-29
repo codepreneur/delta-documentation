@@ -4,4 +4,6 @@ linkPrefix = "/delta-documentation"
 docPages = [
   "/docs/",
   "/docs/getting-started/",
+  "/docs/how-to-use/",
+  "/docs/fields/",
 ]
