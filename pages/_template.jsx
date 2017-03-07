@@ -64,13 +64,14 @@ module.exports = React.createClass({
               </Span>
               <Span columns={8} last>
                 <a
+                  target='_blank'
                   style={{
                     float: 'right',
                     color: colors.fg,
                     textDecoration: 'none',
                     marginLeft: rhythm(1/2),
                   }}
-                  href="http://sugges.tv"
+                  href="https://www.sugges.tv"
                 >
                   Suggestv
                 </a>
